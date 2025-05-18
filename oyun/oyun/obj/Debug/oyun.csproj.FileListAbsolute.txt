@@ -1,0 +1,7 @@
+C:\Users\msi-nb\Desktop\projeler\oyun\oyun\bin\Debug\oyun.exe.config
+C:\Users\msi-nb\Desktop\projeler\oyun\oyun\bin\Debug\oyun.exe
+C:\Users\msi-nb\Desktop\projeler\oyun\oyun\bin\Debug\oyun.pdb
+C:\Users\msi-nb\Desktop\projeler\oyun\oyun\obj\Debug\oyun.csproj.AssemblyReference.cache
+C:\Users\msi-nb\Desktop\projeler\oyun\oyun\obj\Debug\oyun.csproj.CoreCompileInputs.cache
+C:\Users\msi-nb\Desktop\projeler\oyun\oyun\obj\Debug\oyun.exe
+C:\Users\msi-nb\Desktop\projeler\oyun\oyun\obj\Debug\oyun.pdb
